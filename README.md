@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Jack! 👋
 
-<!--
-**tf-jlemasters/tf-jlemasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a jr. software engineer currently working in Indiana, USA. I primarily work professionaly on backend projects but manage to learn as much as I can about fullstack development when I am working on personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js. React.js, Javascript, and more! 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jacklemasters.com.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonlemasters)
+
+
+## Currently Working On:
+I'm currently working on improving my skills in Ruby on Rails!
