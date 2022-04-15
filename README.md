@@ -6,7 +6,7 @@ I'm a jr. software engineer currently working in Fort Collins, Colorado, who gra
 
 
 ## 🛠 Skills
-Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js. React.js, Javascript, and more! 
+Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js. React.js, Javascript, TailwindCSS, Bootstrap, and more! 
 
 
 ## 🔗 Links
