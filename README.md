@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a jr. software engineer currently working in Indiana, USA. I primarily work professionaly on backend projects but manage to learn as much as I can about fullstack development when I am working on personal projects.
+I'm a jr. software engineer currently working in Fort Collins, Colorado, who graduated from a Full Stack Development Bootcamp at the University of Denver.
 
 
 ## 🛠 Skills
