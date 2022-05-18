@@ -2,11 +2,11 @@
 
 
 ## 🚀 About Me
-I'm a jr. software engineer currently working in Fort Collins, Colorado, who graduated from a Full Stack Development Bootcamp at the University of Denver.
+I am a jr. software engineer who is currently working in Fort Collins, Colorado. I graduated from University of Denver's Full Stack Development Bootcamp, and spent four years studying history at University of Northern Colorado.
 
 
 ## 🛠 Skills
-Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js. React.js, Javascript, TailwindCSS, Bootstrap, and more! 
+Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js, React.js, Javascript, TailwindCSS, Bootstrap, and more! 
 
 
 ## 🔗 Links
@@ -15,4 +15,4 @@ Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js. React.js, Javascript, Tailwind
 
 
 ## Currently Working On:
-I'm currently working on improving my skills in Ruby on Rails!
+I'm currently working on improving my knowledge with Ruby on Rails!
