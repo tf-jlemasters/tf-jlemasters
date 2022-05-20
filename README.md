@@ -16,3 +16,7 @@ Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js, React.js, Javascript, Tailwind
 
 ## Currently Working On:
 I'm currently working on improving my knowledge with Ruby on Rails!
+
+<p align="center">
+  <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=tf-jlemasters&theme=merko&show_icons=true" />
+  </p>
