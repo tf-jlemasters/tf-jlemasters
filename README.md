@@ -10,7 +10,7 @@ Ruby, Ruby on Rails, MySQL, PostgresSQL, Node.js, React.js, Javascript, Tailwind
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tf-jlemasters.github.io/jlemasters-react/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jacklemasters.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonlemasters)
 
 
