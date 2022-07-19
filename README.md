@@ -1,6 +1,6 @@
-# Hello World, I'm Jack! 👋
+# 👋 Hello World, I'm Jack!
 
-## 💫 About Me
+## 🚀 About Me
 🔭 I’m currently working on improving my skills in Ruby on Rails<br>🧑🏻‍💻 I’m currently learning C#, Python, and Shell Scripting<br>💬 Reach me at jacksonlemasters@outlook.com<br>
 
 
