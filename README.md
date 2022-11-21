@@ -2,7 +2,7 @@
 I am a jr. software engineer who is currently working in Fort Collins, Colorado. I graduated from University of Denver's Full Stack Development Bootcamp, and spent four years studying history at University of Northern Colorado.
 
 ## 🚀 About Me
-🔭 I’m currently working on improving my skills in Ruby on Rails.<br>🧑🏻‍💻 I’m currently trying to improve my knowledge with Python, JavaScript, and Shell Scripting.<br>💬 Reach me at jacksonlemasters@outlook.com!<br>
+🔭 I’m currently working on improving my skills in Ruby on Rails.<br>🧑🏻‍💻 I’m currently trying to improve my knowledge using Python, JavaScript, and Shell Scripting.<br>💬 Reach me at jacksonlemasters@outlook.com!<br>
 
 
 ## 🌐 Socials
