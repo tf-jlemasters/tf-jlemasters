@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Jack!
-I am a software engineer working out of Fort Collins, Colorado. I graduated from University of Denver's Full Stack Development Bootcamp, and spent four years studying history at University of Northern Colorado.
+I am a software engineer working out of Fort Collins, Colorado. I graduated from University of Denver's Full Stack Development Bootcamp, and spent four years studying history secondary education at University of Northern Colorado.
 
 ## 🚀 About Me
 🔭 I’m currently working on growing my knowledge in Ruby on Rails, and improving my skills using JavaScript and Shell Scripting.<br>💬 Reach me at jacksonlemasters@outlook.com!<br>
